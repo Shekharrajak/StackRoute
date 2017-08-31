@@ -24,4 +24,6 @@ Solution : [https://github.com/Shekharrajak/StackRoute/blob/master/HTML_CSS/Basi
 
 Demo link:
 
-[https://shekharrajak.github.io/stackroute_exercise1/](https://shekharrajak.github.io/stackroute_exercise1/)
+[https://shekharrajak.github.io/stackroute_exercise2s/](https://shekharrajak.github.io/stackroute_exercise2/)
+
+-----------------------------
