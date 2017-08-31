@@ -20,7 +20,7 @@ Exercise 2 :
 
 Solution : [https://github.com/Shekharrajak/StackRoute/blob/master/HTML_CSS/Basics_of_HTML5_and_CSS3/Exercise2_960.html](https://github.com/Shekharrajak/StackRoute/blob/master/HTML_CSS/Basics_of_HTML5_and_CSS3/Exercise2_960.html)
 
-[https://github.com/Shekharrajak/stackroute_exercise1](https://github.com/Shekharrajak/stackroute_exercise1)
+[https://github.com/Shekharrajak/stackroute_exercise2](https://github.com/Shekharrajak/stackroute_exercise2)
 
 Demo link:
 
