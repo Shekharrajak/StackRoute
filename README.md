@@ -5,9 +5,23 @@
 Exercise 1 :
  [http://cgi-lms.stackroute.in/mod/assign/view.php?id=21](http://cgi-lms.stackroute.in/mod/assign/view.php?id=21)
 
-Demo(css part is not working in this demo link): [https://shekharrajak.github.io/StackRoute/HTML_CSS/Basics_of_HTML5_and_CSS3/Exercise1.html](https://shekharrajak.github.io/StackRoute/HTML_CSS/Basics_of_HTML5_and_CSS3/Exercise1.html)
+solution :
+[https://github.com/Shekharrajak/stackroute_exercise1](https://github.com/Shekharrajak/stackroute_exercise1)
+
+Demo link :
+
+[https://shekharrajak.github.io/stackroute_exercise1/](https://shekharrajak.github.io/stackroute_exercise1/)
+
+--------------------------------------------------
 
 Exercise 2 :
 [http://cgi-lms.stackroute.in/mod/assign/view.php?id=172](http://cgi-lms.stackroute.in/mod/assign/view.php?id=172)
 
+
 Solution : [https://github.com/Shekharrajak/StackRoute/blob/master/HTML_CSS/Basics_of_HTML5_and_CSS3/Exercise2_960.html](https://github.com/Shekharrajak/StackRoute/blob/master/HTML_CSS/Basics_of_HTML5_and_CSS3/Exercise2_960.html)
+
+[https://github.com/Shekharrajak/stackroute_exercise1](https://github.com/Shekharrajak/stackroute_exercise1)
+
+Demo link:
+
+[https://shekharrajak.github.io/stackroute_exercise1/](https://shekharrajak.github.io/stackroute_exercise1/)
