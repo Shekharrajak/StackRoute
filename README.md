@@ -18,12 +18,12 @@ Exercise 2 :
 [http://cgi-lms.stackroute.in/mod/assign/view.php?id=172](http://cgi-lms.stackroute.in/mod/assign/view.php?id=172)
 
 
-Solution : [https://github.com/Shekharrajak/StackRoute/blob/master/HTML_CSS/Basics_of_HTML5_and_CSS3/Exercise2_960.html](https://github.com/Shekharrajak/StackRoute/blob/master/HTML_CSS/Basics_of_HTML5_and_CSS3/Exercise2_960.html)
+Solution :
 
 [https://github.com/Shekharrajak/stackroute_exercise2](https://github.com/Shekharrajak/stackroute_exercise2)
 
 Demo link:
 
-[https://shekharrajak.github.io/stackroute_exercise2s/](https://shekharrajak.github.io/stackroute_exercise2/)
+[https://shekharrajak.github.io/stackroute_exercise2/](https://shekharrajak.github.io/stackroute_exercise2/)
 
 -----------------------------
