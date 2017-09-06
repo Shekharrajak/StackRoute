@@ -27,3 +27,13 @@ Demo link:
 [https://shekharrajak.github.io/stackroute_exercise2/](https://shekharrajak.github.io/stackroute_exercise2/)
 
 -----------------------------
+
+Exercise 3 :
+[http://cgi-lms.stackroute.in/mod/assign/view.php?id=53](http://cgi-lms.stackroute.in/mod/assign/view.php?id=53)
+
+Solution :
+
+[https://github.com/Shekharrajak/stackroute_exercise3](https://github.com/Shekharrajak/stackroute_exercise3)
+
+Demo :
+[https://shekharrajak.github.io/stackroute_exercise3/](https://shekharrajak.github.io/stackroute_exercise3/)
